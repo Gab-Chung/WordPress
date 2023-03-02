@@ -1,0 +1,5 @@
+.DS_Store
+
+wp-content/uploads/
+.htaccess
+wp-config.php
